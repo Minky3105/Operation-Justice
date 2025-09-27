@@ -1,0 +1,1560 @@
+Reports and Testimony: January 1995 (Other Written Prod., 01/95,
+GAO/OPA-95-4).
+
+GAO published its monthly digest of reports and testimonies issued in
+January 1995.
+
+--------------------------- Indexing Terms -----------------------------
+
+ REPORTNUM:  OPA-95-4
+     TITLE:  Reports and Testimony: January 1995
+      DATE:  01/01/95
+   SUBJECT:  Food stamp programs
+             Defense contingency planning
+             Computer security
+             Transportation operations
+             National defense operations
+             Budget administration
+             Employment
+             Data integrity
+             Electronic funds transfer
+             International relations
+IDENTIFIER:  Bibliographies
+             DOD Bottom-Up Review
+             National Information Infrastructure Program
+             Information Superhighway
+             
+**************************************************************************
+* This file contains an ASCII representation of the text of a GAO        *
+* report.  Delineations within the text indicating chapter titles,       *
+* headings, and bullets are preserved.  Major divisions and subdivisions *
+* of the text, such as Chapters, Sections, and Appendixes, are           *
+* identified by double and single lines.  The numbers on the right end   *
+* of these lines indicate the position of each of the subsections in the *
+* document outline.  These numbers do NOT correspond with the page       *
+* numbers of the printed product.                                        *
+*                                                                        *
+* No attempt has been made to display graphic images, although figure    *
+* captions are reproduced. Tables are included, but may not resemble     *
+* those in the printed version.                                          *
+*                                                                        *
+* A printed copy of this report may be obtained from the GAO Document    *
+* Distribution Facility by calling (202) 512-6000, by faxing your        *
+* request to (301) 258-4066, or by writing to P.O. Box 6015,             *
+* Gaithersburg, MD 20884-6015. We are unable to accept electronic orders *
+* for printed documents at this time.                                    *
+**************************************************************************
+
+
+REPORTS AND TESTIMONY:
+JANUARY 1995
+
+GAO/OPA-95-4
+
+
+Highlights
+
+DOD Bottom-Up Review
+
+In its bottom-up review of U.S.  defense needs, the Defense
+Department outlined a strategy to fight and win two nearly
+simultaneous regional conflicts.  GAO found that DOD has not fully
+analyzed key assumptions about availability of forces, supporting
+capabilities, and enhancements that DOD concluded were necessary for
+executing the two-conflict strategy.  Page 20. 
+
+Information Superhighway
+
+Several critical challenges remain before a national information
+superhighway is finally developed.  These include ensuring data
+security and users' privacy, developing common protocols and
+standards to ensure a "seamless" web of features, and guaranteeing
+reliability.  Page 16. 
+
+Food Assistance
+
+GAO concludes that providing Food Stamps by either electronic
+transfer or giving beneficiaries a check rather than coupons could
+reduce some types of waste, fraud, and abuse, although the reductions
+have yet to be quantified.  Page 2. 
+
+GAO/OPA-95-4
+
+
+
+Abbreviations
+=============================================================== ABBREV
+
+  AFDC -
+  CBO -
+  DCAA -
+  DOD -
+  DOE -
+  DOT -
+  EEO -
+  EPA -
+  EU -
+  FAA -
+  FDA -
+  FSIS -
+  FTC -
+  FYDP -
+  HHS -
+  HUD -
+  INS -
+  JOBS -
+  NASA -
+  OMB -
+  OSCE -
+  SSI -
+  TAA -
+  TRW -
+  TSSAM -
+  USDA -
+  VA -
+
+REPORTS AND TESTIMONY:  JANUARY
+1995
+=========================================================== Appendix 0
+
+
+   AGRICULTURE AND FOOD
+--------------------------------------------------------- Appendix 0:1
+
+Food Assistance:
+Potential Impacts of Alternative Systems for Delivering Food Stamp
+Program Benefits
+
+GAO/RCED-95-13, Dec.  16 (77 pages). 
+
+The food stamp program, one of the nation's largest welfare programs,
+provides benefits to one in 10 Americans at a total annual cost of
+nearly $25 billion.  The use of electronic fund transfer technology
+and checks could reduce some types of waste, fraud, and abuse in the
+program, which now relies on coupons to deliver benefits.  The
+reductions possible under the two alternatives, however, have yet to
+be quantified.  Administratively, checks are the least expensive way
+to deliver benefits.  Whether electronic fund transfer technology
+will be less costly to run than the existing coupon system is
+unclear.  Also, the popularly held assumption that electronic fund
+transfer technology and checks will boost program participation is
+unproven.  Electronic fund transfer technology appears superior to
+both coupons and checks in ensuring that benefits are actually used
+to buy food.  Currently, momentum is building to implement a new
+federal electronic benefits delivery system that would provide
+payments and benefits for a host of government programs.  In GAO's
+opinion, the future value of electronic fund transfer technology is
+in the larger arena of a multiprogram benefit delivery mechanism
+instead of a system for delivery of food assistance benefits alone. 
+
+Nutrition Labeling:
+FDA and USDA Need a Coordinated Assessment of Food
+Label Accuracy
+
+GAO/RCED-95-19, Dec.  29 (20 pages). 
+
+The Nutrition Labeling and Education Act of 1990 seeks to provide
+consumers with uniform and accurate nutrition information on food
+labels.  To guarantee the accuracy of this information, the Food
+Safety and Inspection Service (FSIS) and the Food and Drug
+Administration (FDA) will do laboratory analyses of food products and
+visual reviews of food labels.  However, relatively few labels will
+be verified by laboratory analyses, and the visual reviews will not
+verify the accuracy of the nutrient values.  Because of these
+limitations and the flexibility given food companies in developing
+the nutrient values on labels, the accuracy of the information
+provided on about 50,000 labels will depend largely on the food
+industry.  Because the new nutrition labeling requirements have
+applied to food companies only since August 1994, it is too soon to
+evaluate federal policies and procedures governing the accuracy of
+nutrition information on labels.  Although FSIS will use information
+from its enforcement program to evaluate the effectiveness of its
+policies and procedures, unlike FDA, it does not plan to
+statistically assess the overall accuracy of the nutrition
+information on labels for meat and poultry.  Without such an
+assessment, the federal government may be unable to evaluate the
+effectiveness of its nutrition labeling program for all products in
+the marketplace. 
+
+
+   BUDGET AND SPENDING
+--------------------------------------------------------- Appendix 0:2
+
+Budget Issues:
+Compliance Report Required by the Budget Enforcement Act
+of 1990
+
+GAO/AIMD-95-66, Jan.  13 (17 pages). 
+
+As required by the Budget Enforcement Act of 1990, this compliance
+report covers budget sequestration reports issued by the Office of
+Management and Budget (OMB) and the Congressional Budget Office (CBO)
+during the session of Congress ending December 1, 1994.  In GAO's
+opinion, the OMB and CBO reports substantially complied with the act. 
+GAO does note some differences in cost estimates concerning
+appropriation acts and the dissimilar budget treatment for the
+Federal Crop Insurance Reform Act.  OMB and CBO estimates for outlays
+from appropriations acts varied because they used (1) different
+approaches to scoring emergency and contingent emergency
+appropriations and (2) different assumptions about the timing of
+outlays.  The differences in cost estimates were due primarily to
+different methodological and technical assumptions by OMB and CBO
+about the programs involved.  OMB and CBO cost estimates were similar
+for the newly created Violent Crime Reduction Trust Fund.  GAO
+describes the different approaches OMB and CBO used to estimate the
+costs of the Federal Crop Insurance Reform Act because it was the
+only pay-as-you-go legislation with significant outlay variance. 
+
+
+   CIVIL RIGHTS
+--------------------------------------------------------- Appendix 0:3
+
+Discrimination Complaints:
+Monetary Awards in Federal EEO Cases
+
+GAO/GGD-95-28FS, Jan.  3 (six pages). 
+
+Although exact payment figures are not readily available, GAO found
+that federal agencies and the Judgment Fund paid at least $87.4
+million to federal workers and their attorneys since fiscal year 1989
+as a result of federal equal employment opportunity cases.  Of that
+amount, $30.6 million was paid in fiscal years 1993 and 1994.  Much
+of the $87.4 million was back pay to federal employees.  However, at
+least $30.5 million was for attorney fees and costs.  Of that amount,
+$8.7 million was paid in fiscal years 1993 and 1994. 
+
+
+   EDUCATION
+--------------------------------------------------------- Appendix 0:4
+
+Charter Schools:
+New Model for Public Schools Provides Opportunities and Challenges
+
+GAO/HEHS-95-42, Jan.  18 (47 pages). 
+
+Charter schools are a rapidly growing education reform, offering a
+new model for public schools.  These schools are intended to address
+a variety of concerns about public education, including unresponsive
+bureaucracies, restrictive rules, limited choices among types of
+schools, and a lack of accountability for student performance.  As
+the number of charter schools has grown, so has their diversity. 
+These schools vary considerably in their autonomy, their
+instructional programs reflect diversity and innovation, and they
+vary in how they plan and measure student performance.  Because of
+this diversity, these schools pose new challenges for federal program
+administration.  These challenges stem from the lack of connection of
+some charter schools to local school districts.  Meanwhile, states
+are uncertain about how to treat charter schools in regard to federal
+programs and federal requirements, such as those for special
+education.  GAO summarized this report in testimony before Congress;
+see: 
+
+Charter Schools:  A Growing and Diverse National Reform Movement, by
+Linda G.  Morra, Director of Education and Employment Issues, before
+the Subcommittee on Labor, Health and Human Services, Education, and
+Related Agencies, Senate Committee on Appropriations. 
+GAO/T-HEHS-95-52, Jan.  19 (five pages). 
+
+
+      TESTIMONY
+------------------------------------------------------- Appendix 0:4.1
+
+Department of Education:  Opportunities to Realize Savings, by Linda
+G.  Morra, Director of Education and Employment Issues, before the
+Subcommittee on Labor, Health and Human Services, Education, and
+Related Agencies, House Committee on Appropriations. 
+GAO/T-HEHS-95-56, Jan.  18 (13 pages). 
+
+Congress is considering proposed budget reductions and rescissions
+affecting the Department of Education, which runs about 240 programs
+with a budget totaling $33.7 billion--$25.1 billion in discretionary
+spending and $8.6 billion in mandatory funds.  This testimony
+discusses (1) the need to reexamine the programs previously suggested
+by Education for elimination because they duplicate other programs,
+their purposes are already achieved, or they are more appropriately
+funded through nonfederal resources; (2) potential funding cuts that
+Congress may want to consider in higher education programs; (3)
+Department programs related to employment training that overlap with
+each other and other programs outside the Department; and (4) ways to
+reduce the negative effects of any Title I or other formula grant
+funding reductions. 
+
+
+   EMPLOYMENT
+--------------------------------------------------------- Appendix 0:5
+
+
+      TESTIMONY
+------------------------------------------------------- Appendix 0:5.1
+
+Multiple Employment Training Programs:  Major Overhaul Needed to
+Reduce Costs, Streamline the Bureaucracy, and Improve Results, by
+Clarence C.  Crawford, Associate Director for Education and
+Employment Issues, before the Senate Committee on Labor and Human
+Resources.  GAO/T-HEHS-95-53, Jan.  10 (28 pages). 
+
+This testimony discusses the many problems with the current
+fragmented "system" of federal employment training assistance. 
+Although many of the programs have admirable goals, collectively
+these add unnecessary administrative costs and confuse and frustrate
+clients, employers, and administrators.  These problems have raised
+concerns about the efficiency of the current system.  Additionally,
+many agencies do not know whether their programs actually help people
+get jobs.  Thus, the effectiveness of these problems is also in
+question.  This situation convinces GAO that a major overhaul and
+consolidation of the programs is needed to create an effective and
+efficient employment training system. 
+
+Department of Labor:  Opportunities to Realize Savings, by Linda G. 
+Morra, Director of Education and Employment Issues, before the
+Subcommittee on Labor, Health and Human Services, Education, and
+Related Agencies, House Committee on Appropriations. 
+GAO/T-HEHS-95-55, Jan.  18 (15 pages). 
+
+Congress is considering budget reductions and rescissions affecting
+the Labor Department.  Although about two-thirds of Labor's $34.3
+billion budget for 1995 is earmarked for mandatory spending on income
+maintenance programs, GAO testified that several employment training
+programs--the Job Training Partnership Act Title IIC Program for
+Disadvantaged Youth, the Job Corps program, and Title III (Economic
+Dislocation and Worker Adjustment Assistance Act)--might be
+candidates for budget review.  These programs have either received
+increases in fiscal year 1995 funding, have had some concerns raised
+about their effectiveness, or have had difficulty in spending prior
+year allocations.  They represent sizable investments in socially
+laudable objectives and the total funding for these programs is only
+a fraction of resources needed to serve the entire eligible
+population.  Nevertheless, they may warrant review during these
+difficult budgetary times.  In addition, other reductions may be
+possible by consolidating federal job training programs, repealing
+the Davis-Bacon and Service Contract Acts, not renewing the Targeted
+Jobs Tax Credit program, and implementing administrative changes for
+enforcing the Employment Retirement and Income Security Act. 
+
+
+   ENERGY
+--------------------------------------------------------- Appendix 0:6
+
+Managing DOE:
+Further Review Needed of Suspensions of Security Clearances for
+Minority Employees
+
+GAO/RCED-95-15, Dec.  8 (16 pages). 
+
+From fiscal year 1989 through fiscal year 1993, the Energy Department
+(DOE) suspended 425 security clearances for contractor employees at
+its Albuquerque, Savannah River, and Oak Ridge operations offices. 
+At each of these locations, GAO found that the clearances of
+African-Americans, Hispanics, or American Indians were suspended more
+often than would be statistically expected if the suspensions had
+been randomly distributed across racial/ethnic groups.  DOE does not
+monitor suspensions of minority groups' security clearances and was
+unaware of the statistical disparities.  GAO believes that DOE needs
+to further evaluate why these disparities
+are occurring. 
+
+Department of Energy:
+Procedures Followed in Awarding Grants to Study Uses of Collider's
+Assets
+
+GAO/RCED-95-53, Dec.  13 (10 pages). 
+
+The Energy Department (DOE) generally complied with federal
+regulations and its own procedures in awarding grants to study future
+uses of the Superconducting Super Collider's assets.  GAO's review of
+DOE's grant award processes did not disclose any departures from
+applicable regulations and procedures in selecting the grantees and
+making the grants.  However, when notifying applicants that they had
+not been chosen, DOE did not follow its regulation that applicants be
+told in writing that they could ask for more detailed information on
+DOE's decision.  Instead, DOE officials assumed that they would be
+contacted by the unsuccessful applicants if more information was
+desired.  The 11 solicited grants that DOE awarded varied in terms of
+the funding and technical support provided to the grantees because
+the scope, the nature, and the complexity of the studies varied
+although the grants were generally comparable in timing.  The
+grantees generally received the level of funding and technical
+support they requested and were generally satisfied with the amount
+of support they received.  Although grantees residing in Texas had
+the obvious advantage of being near the collider site, no other
+advantages for Texas grantees were identified. 
+
+Nuclear Waste:
+DOE's Management and Organization of the Nevada
+Repository Project
+
+GAO/RCED-95-27, Dec.  23 (27 pages). 
+
+The Energy Department (DOE) in 1991 hired a contractor---at an
+estimated cost of $1 billion over 10 years--to engineer, develop, and
+manage a system for permanently disposing of highly radioactive
+waste.  The centerpiece of this disposal system is a geological
+repository for waste disposal.  One of DOE's original objectives was
+to consolidate under the contractor much of the program work and, in
+particular, a project investigating Yucca Mountain, Nevada, as a
+suitable repository site.  This report examines whether DOE is
+effectively using the contractor--TRW Environmental Safety Systems,
+Inc., a subsidiary of TRW, Inc.--to manage the project. 
+Specifically, GAO reviews DOE's efforts to consolidate participants'
+activities, streamline decision-making, and cut costs at the
+repository project.  GAO also assesses DOE's recent initiative to
+reorganize project management. 
+
+Nuclear Nonproliferation:
+U.S.  International Nuclear Materials Tracking Capabilities
+Are Limited
+
+GAO/RCED/AIMD-95-5, Dec.  27 (27 pages). 
+
+The Energy Department's (DOE) computerized Nuclear Materials
+Management and Safeguards System has significant limitations that
+impair its ability to track the international movement of nuclear
+materials.  GAO is concerned that DOE's new tracking system will not
+overcome existing shortcomings.  For example, the system lacks data
+that are not required to be reported under U.S.  agreements for
+cooperation.  GAO believes that DOE should have explored system
+alternatives and asked its intended users to try to mitigate some of
+these limitations.  In addition, because DOE has not followed good
+systems development practices, it cannot be sure that the system will
+be cost-effective or will even meet the needs of its
+principal users. 
+
+Nuclear Waste:
+Change in Test Strategy Sound, but DOE Overstated Savings
+
+GAO/RCED-95-44, Dec.  27 (40 pages). 
+
+After pursuing for a decade a strategy for underground tests with
+nuclear wastes in the Waste Isolation Pilot Plant--a proposed
+repository for the disposal of transuranic wastes located near
+Carlsbad, New Mexico--the Energy Department (DOE) announced in
+October 1993 that it was abandoning these tests in favor of
+laboratory-based tests.  DOE claimed that this change would save
+about $139 million by January 2000 and would allow DOE to begin
+disposing of waste by 1998.  The general consensus among scientists,
+experts, and regulators is that DOE's decision to discontinue its
+planned underground tests with transuranic wastes is sound.  However,
+GAO questions DOE's projected cost savings.  For instance, DOE lacks
+documentation for many elements of the estimated cost savings.  GAO
+also doubts that DOE will be able to open the plant by 1998 instead
+of 2000.  Numerous unresolved issues could affect when DOE can
+eventually begin disposing of wastes in the facility.  For example it
+is unclear whether DOE's schedule gives the Environmental Protection
+Agency (EPA) enough time to review DOE's procedures and decide if DOE
+has complied with EPA's regulatory requirements for disposing of
+transuranic wastes in
+a repository. 
+
+Department of Energy:
+National Laboratories Need Clearer Missions and
+Better Management
+
+GAO/RCED-95-10, Jan.  27 (45 pages). 
+
+The Energy Department's (DOE) national laboratories have made vital
+contributions to the nation's defense and to civilian science and
+technology efforts.  However, the national laboratories today lack
+clearly defined missions and suffer from poor coordination to solve
+national problems.  As a result, DOE has underutilized the
+laboratories' talents to tackle complex issues and these institutions
+may be unprepared to meet future expectations.  GAO raises questions
+about the laboratories' ability to help the United States meet its
+changing defense needs at the end of the Cold War and compete against
+growing foreign competition in technology. 
+
+
+      TESTIMONY
+------------------------------------------------------- Appendix 0:6.1
+
+Department of Energy:  Need to Reevaluate Its Role and Missions, by
+Victor S.  Rezendes, Director of Energy and Science Issues, before
+the Subcommittee on Energy and Water, House Committee on
+Appropriations.  GAO/T-RCED-95-85, Jan.  18 (10 pages). 
+
+The mission and priorities of the Energy Department (DOE) have
+changed dramatically since it was created in 1977, leading GAO to
+conclude that the agency and its mission should be reevaluated. 
+Weapons production and environmental cleanup issues now overshadow
+DOE's original focus on energy research and conservation.  Science
+and industrial competitiveness have also emerged as new missions.  At
+the same time, DOE suffers from significant management problems,
+ranging from poor environmental management of the nuclear weapons
+complex to major internal inefficiencies involving poor contractor
+oversight, inadequate information systems, and workforce weaknesses. 
+
+
+   ENVIRONMENTAL PROTECTION
+--------------------------------------------------------- Appendix 0:7
+
+Air Pollution:
+Reductions in EPA's 1994 Air Quality Program's Budget
+
+GAO/RCED-95-31BR, Nov.  29 (24 pages). 
+
+This briefing report provides information on (1) reductions in the
+Environmental Protection Agency's fiscal year 1994 budget for its air
+quality program, (2) how the agency allocated reductions among
+various components of the air quality program, and (3) the extent to
+which the reductions affected efforts to meet requirements and
+deadlines set by the Clean Air Act Amendments of 1990. 
+
+Superfund:
+Estimates of Number of Future Sites Vary
+
+GAO/RCED-95-18, Nov.  29 (20 pages). 
+
+Since 1980, nearly 37,000 nonfederal sites have been reported to the
+Environmental Protection Agency's (EPA) hazardous waste site
+inventory.  The number of sites reported each year has declined
+steadily since 1985, reaching 1,159 nonfederal sites in fiscal year
+1993.  However, the proportion of sites judged upon inspection to
+have serious potential contamination in fiscal year 1993 was the same
+(43 percent) that it averaged in the past.  EPA officials attributed
+the decline in the number of reported sites to the fact that states
+believe that they can handle cleanups more efficiently and prefer to
+deal with sites in their own cleanup programs.  Recent estimates of
+the number of reported sites that will eventually be included in the
+National Priorities List--the register of Superfund sites--vary
+widely.  EPA has estimated that 1,700 new sites could be added to the
+list through the year 2020.  The Congressional Budget Office
+concluded that 3,300 new nonfederal sites could be added to the
+priorities list through the year 2027.  GAO believes that between
+2,500 and 2,800 nonfederal sites could be added to the list just from
+the inventory of sites undergoing or awaiting evaluation. 
+
+Environmental Protection:
+Information on EPA's Underground Injection Control Program
+
+GAO/RCED-95-21, Dec.  5 (15 pages). 
+
+Liquified hazardous wastes as well as oil and gas wastes are often
+injected into underground wells and deposited below drinking water
+supplies into porous rock formations that are separated from the
+drinking water by layers of nonpermeable rock.  The nonpermeable rock
+reduces the likelihood of waste contaminating the drinking water.  To
+protect drinking water supplies, the Safe Drinking Water Act requires
+the Environmental Protection Agency (EPA) to set minimum requirements
+for state underground injection control programs to regulate
+injection wells used for waste disposal.  In addition, the 1984
+amendment to the Resources Conservation and Recovery Act requires
+EPA, beginning in 1988, to ban the disposal of untreated hazardous
+wastes into wells unless owners and operators could prove to EPA that
+the wastes would not migrate from the injection zone.  This report
+discusses the (1) results of EPA's efforts to implement the ban on
+underground injection of hazardous wastes, (2) accuracy of EPA's
+inspection and enforcement data to ensure reliable program oversight,
+and (3) status of GAO's earlier recommendations to improve the
+Underground Injection Control Program.  Because two-thirds of the
+nation's hazardous waste and oil and gas waste injection wells are
+found in EPA Regions 5 and 6, which encompass Louisiana, Michigan,
+and Texas, GAO included these regions and states in this review. 
+
+Superfund:
+Legal Expenses for Cleanup-Related Activities of Major
+U.S.  Corporations
+
+GAO/RCED-95-46, Dec.  23 (60 pages). 
+
+Under the Superfund program, parties responsible for hazardous waste
+sites that are contaminating the environment are liable for cleanup
+costs.  Responsible parties can include generators of hazardous waste
+deposited at the sites, transporters of the waste, and site owners
+and operators.  In addition to cleanup costs, responsible parties
+must also pay legal expenses to allocate the cleanup costs among
+themselves, to settle with the government, or to litigate liability
+for cleanups.  Responsible parties have complained that these
+costs--called transaction costs--are high and represent too large a
+portion of their total Superfund expenditures.  GAO surveyed Fortune
+500 companies to determine how much responsible parties have spent on
+cleanup and legal costs at Superfund sites and to identify factors
+that these parties believe have increased or decreased their legal
+costs. 
+
+
+   FINANCIAL INSTITUTIONS
+--------------------------------------------------------- Appendix 0:8
+
+Bank Regulatory Structure:
+The United Kingdom
+
+GAO/GGD-95-38, Dec.  29 (59 pages). 
+
+Proposals to consolidate U.S.  banking regulatory agencies have
+raised questions about how other nations structure and carry out
+their various bank regulation and supervision and central bank
+activities.  This report provides information about such activities
+in the United Kingdom, which provides an example of a bank regulatory
+structure dominated by its central bank.  GAO describes (1) the U.K. 
+bank regulatory and supervisory structure and its key participants;
+(2) how that structure functions, particularly with respect to bank
+authorization, regulation, and supervision; and (3) how banks are
+examined. 
+
+
+   GOVERNMENT OPERATIONS
+--------------------------------------------------------- Appendix 0:9
+
+Reimbursed Travel:
+Commerce and FTC Generally Met Requirements but Some Improvements
+Needed
+
+GAO/GGD-95-32, Jan.  26 (27 pages). 
+
+Under federal regulations, government employees can accept payment of
+travel costs by nonfederal sources, such as private companies and
+universities, if the purpose of the travel is related to the
+employees' official duties and the acceptance of such travel does not
+present a conflict of interest.  Federal agencies are required to
+establish procedures to ensure that these conditions are met before
+travel reimbursements are accepted.  This report discusses (1) how
+adequately the Commerce Department and the Federal Trade Commission
+controlled the their employees' acceptance and reporting of travel
+funds paid by nonfederal organizations and (2) the implication of
+Commerce's denying the Office of Government Ethics access to its
+records of reimbursed travel in 1992. 
+
+Budget Function Classification:
+Relating Agency Spending and Personnel Levels to Budget Functions
+
+GAO/AIMD/GGD-95-69FS, Jan.  30 (125 pages). 
+
+This fact sheet examines the functions performed by agencies in the
+federal government, identifying those that are uniquely associated
+with each agency and those that are done by two are more agencies. 
+It also provides financial information and civilian personnel levels
+associated with each function.  GAO provides tabular and graphical
+presentations showing (1) a matrix of federal departments and
+agencies according to budget function and subfunction classifications
+developed by the Office of Management and Budget, (2) separate
+presentations for departments and agencies depicting obligation and
+employment levels by budget function, (3) separate presentations for
+each budget function showing obligation and employment levels for
+departments and agencies, and (4) end-of-year employment "head
+counts" for each department and agency. 
+
+Program Evaluation:
+Improving the Flow of Information to the Congress
+
+GAO/PEMD-95-1, Jan.  30 (84 pages). 
+
+Congressional committees need evaluative information to help them
+make decisions about the programs they oversee--information that
+tells them whether, and in what important respects, a program is
+working well or poorly.  Concerned that the information it receives
+from administrative agencies is often insufficient, the Senate
+Committee on Labor and Human Resources asked GAO to (1) identify the
+kinds of information that would be useful for oversight and
+reauthorization review of the programs under its jurisdiction; (2)
+examine the extent to which agencies collect and report such
+information; and (3) propose a strategy the Committee could use to
+improve its access to agency information. 
+
+
+   HEALTH
+-------------------------------------------------------- Appendix 0:10
+
+Hospital Costs:
+Cost Control Efforts at 17 Texas Hospitals
+
+GAO/AIMD-95-21, Dec.  9 (51 pages). 
+
+This report provides information on how the increased use of managed
+care may have influenced cost control efforts at 17 urban hospitals
+in Texas.  GAO identifies the types of costs that are subject to
+these hospitals' control and those that are not.  GAO also highlights
+cost control efforts that are significantly changing how the 17
+hospitals operate. 
+
+Ryan White Care Act:
+Access to Services by Minorities, Women, and Substance Abusers
+
+GAO/HEHS-95-49, Jan.  13 (25 pages). 
+
+AIDS is affecting minorities, women, and injection drug users at an
+increasing rate.  GAO reviewed the extent to which HIV-infected
+groups, such as African-Americans, Hispanics, women, and injection
+drug users, received medical and support services funded by the Ryan
+White Comprehensive AIDS Resources Emergency Act of 1990.  GAO
+visited five locations--Baltimore, Denver, Los Angeles, Sacramento,
+and the Maryland suburbs of Washington, D.C.--and found that all
+three groups generally used services at a rate that reflect their
+representation in the HIV-infected population in those areas. 
+Medical and support services providers said that this corresponds to
+their experience of the usage of Ryan White Care Act-funded services. 
+These providers and advocates added, however, that barriers may limit
+some groups' access to services. 
+
+
+   HOUSING
+-------------------------------------------------------- Appendix 0:11
+
+
+      TESTIMONY
+------------------------------------------------------ Appendix 0:11.1
+
+Housing and Urban Development:  Major Management and Budget Issues,
+by Judy A.  England-Joseph, Director of Housing and Community
+Development Issues, before the Subcommittee on VA, HUD, and
+Independent Agencies, Senate Committee on Appropriations. 
+GAO/T-RCED-95-86, Jan.  19 (11 pages); and
+
+Housing and Urban Development:  Major Management and Budget Issues,
+by Judy A.  England-Joseph, Director of Housing and Community
+Development Issues, before the Subcommittee on VA, HUD, and
+Independent Agencies, House Committee on Appropriations. 
+GAO/T-RCED-95-89, Jan.  24 (11 pages). 
+
+Longstanding agency-wide deficiencies--weak internal controls, an
+ineffective organizational structure, an insufficient mix of staff
+with the proper skills, and inadequate information and financial
+management systems--hamper the Department of Housing and Urban
+Development's (HUD) ability to effectively carry out its mission. 
+These shortcomings, along with a variety of other problems, have
+created particularly vexing problems for both HUD and Congress in the
+area of public and assisted housing.  These problems include how to
+minimize mortgage loan defaults, deal with billions of dollars of
+backlogged housing rehabilitation needs and increased vacancy levels,
+and address the spiraling costs of providing housing subsidies to
+poor families.  HUD has taken steps that begin to address its
+department-wide deficiencies as well as the problems plaguing
+assisted and public housing, but many of these efforts are in their
+early stages.  Solving the problems at HUD will not be easy and will
+require a full examination of housing policy and HUD's mission. 
+
+
+   INCOME SECURITY
+-------------------------------------------------------- Appendix 0:12
+
+Child Support Enforcement:
+Families Could Benefit From Stronger Enforcement Program
+
+GAO/HEHS-95-24, Dec.  27 (116 pages). 
+
+The number of youngsters needing child support has risen
+dramatically.  The child support enforcement caseload soared 180
+percent between 1980 and 1992.  Yet the federal child support
+enforcement program managed to collect support for only 19 percent of
+its clients in 1992.  Management weaknesses prevented the federal
+Office of Child Support Enforcement (OSCE) from (1) effectively
+leading the program and the states, (2) judging how well the program
+is working, and (3) setting effective policies.  Although most
+program funding comes from the federal government, child support
+enforcement remains very much a state activity.  Today, states face
+common problems, such as increasing workloads that outpace resources,
+inadequate computer systems, and fragmented authority and
+unstandardized procedures among others.  In response, states have
+developed a number of strategies, including augmenting their staffs
+with volunteers and contracting with private collection agencies,
+improving automation, and using innovative enforcement techniques. 
+Many welfare reform proposals would further expand child support
+enforcement.  Unless OSCE strengthens its management of its current
+program, it may have difficulty implementing any new
+responsibilities. 
+
+District Pensions:
+Federal Options for Sharing Burden to Finance Unfunded Liability
+
+GAO/HEHS-95-40, Dec.  28 (39 pages). 
+
+With a total unfunded liability of about $5 billion in 1993, the
+District of Columbia pension plans for police officers and
+firefighters, teachers, and judges continued to be not as well funded
+as 24 comparable state and local governmental pension plans.  A
+funding method proposed by the District of Columbia Pension Liability
+Funding Reform Act of 1994 (H.R.  3728) and a companion District bill
+would shift about $1 billion in contributions from the District to
+the federal government.  However, because the approach would entail
+federal payments escalating at five percent per year through 2035,
+more of the burden of eliminating the unfunded liability would shift
+to future federal budgets and generations of federal taxpayers.  In
+contrast, a constant annual federal payment of $102.1 million would
+shift less of the burden to future federal budgets and taxpayers,
+cost the federal government a little less overall, and have the same
+effect as H.R.  3728 in stabilizing the District's contributions at
+about 45 percent of payroll while eliminating the liability.  Other
+options with lower constant annual federal payments would also
+eliminate the liability but the District's contributions would be
+higher.  Also, under the District bill, its contributions for the
+first three years would be at the required minimum of $295.5 million. 
+GAO notes that these payments would be about $58 million higher than
+the actuarially determined amounts. 
+
+
+      TESTIMONY
+------------------------------------------------------ Appendix 0:12.1
+
+Supplemental Security Income:  Recent Growth in the Rolls Raises
+Fundamental Program Concerns, by Jane L.  Ross, Director of Income
+Security Issues, before the Subcommittee on Human Resources, House
+Committee on Ways and Means.  GAO/T-HEHS-95-67, Jan.  27 (seven
+pages). 
+
+This testimony discusses growth in the Supplemental Security Income
+(SSI) rolls and changes in the characteristics of SSI recipients. 
+Last year, the Social Security Administration paid nearly $22 billion
+in benefits to about 6.3 million aged, blind, and disabled SSI
+recipients.  Since 1986, payments have risen by $13.5 billion, more
+than doubling.  Benefits for the disabled accounted for nearly all of
+this increase.  Since 1986, the number of disabled SSI recipients
+under age 65 has increased an average of more than eight percent
+annually, adding nearly 2 million younger recipients to the rolls,
+while the number of aged and blind recipients has remained level. 
+The trend toward younger beneficiaries, coupled with low exit rates
+from the program, means that costs will continue to burgeon in the
+near term.  Without a slowing in the growth of this younger
+population, SSI will become even more costly.  Since 1991, three
+groups--disabled children, legal immigrants, and adults with mental
+problems--have accounted for nearly 90 percent of the SSI caseload
+growth.  Of the two million mentally disabled adults, roughly 100,000
+are disabled by drug addiction or alcoholism.  The dramatic increases
+pose fundamental questions about eligibility standards,
+acountability, and program effectiveness. 
+
+
+   INFORMATION MANAGEMENT
+-------------------------------------------------------- Appendix 0:13
+
+Information Superhighway:
+An Overview of Technology Challenges
+
+GAO/AIMD-95-23, Jan.  23 (84 pages). 
+
+To take advantage of emerging technologies to create, manage, and use
+information that could be of strategic importance to the United
+States, the administration has launched an initiative to guide
+industry's development of the national information superhighway. 
+Although the structure and services to be offered by the information
+superhighway have not yet been determined, several critical technical
+challenges are emerging.  These include the necessity of ensuring
+data security and protection of users' privacy, providing a
+"seamless" web of features that will require standards and common
+interfaces and protocols, and ensuring reliability. 
+
+
+   INTERNATIONAL AFFAIRS
+-------------------------------------------------------- Appendix 0:14
+
+Peace Corps:
+New Programs in Former Eastern Bloc Counties Should
+Be Strengthened
+
+GAO/NSIAD-95-6, Dec.  19 (20 pages). 
+
+Although the Peace Corps has sound policies for planning new programs
+and preparing volunteers for service abroad, its haste to help former
+Eastern bloc countries has led the agency to override normal
+procedures and launch programs prematurely.  The programs GAO
+examined were poorly designed, and volunteers did not receive the
+guidance, support, or well-conceived assignments that they were led
+to expect.  The Peace Corps suffered a high rate of staff turnover
+and early returns of volunteers.  As a result, the program's
+developmental impact in these countries was impaired.  Peace Corps
+officials acknowledge the problems and have taken steps to overcome
+them; however, it is to soon to know how effective they will be.  The
+Peace Corps programs in the former Eastern Bloc were not undertaken
+at the expense of programs in other regions.  Funding and staffing in
+other countries did not appear to be affected by the
+new programs. 
+
+International Trade:
+Long-Term Viability of U.S.-European Union Aircraft
+Agreement Uncertain
+
+GAO/GGD-95-45, Dec.  19 (50 pages). 
+
+An objective of the 1979 Agreement on Trade in Civil Aircraft was to
+liberalize world trade in the civil aircraft industry through the
+removal of tariffs and such other trade obstacles as quotas,
+preferential technical standards, and export subsidies.  However,
+trade tension between the United States and the European Union (EU)
+over the civil aircraft industry continued into the 1990s, due
+especially to U.S.  concerns about continuing government support to
+large EU civil aircraft manufacturers.  In July 1992, the United
+States and the EU entered into a bilateral agreement aimed at
+reducing government support to manufacturers of large civil
+aircraft--planes with a capacity of 100 or more passengers.  This
+report assesses the (1) extent to which the agreement has proved
+viable in operation, (2) potential impact of changes in government
+support on the competitiveness of the U.S.  large civil aircraft
+industry, and (3) the efforts of the United States and the EU to
+extend the agreement to other nations with aerospace industries and
+to related aerospace products. 
+
+Overseas Presence:
+Staffing at U.S.  Diplomatic Posts
+
+GAO/NSIAD-95-50FS, Dec.  28 (70 pages). 
+
+GAO assembled information on the size, location, and costs of the
+diplomatic presence maintained by the State Department and more than
+35 other U.S.  government agencies at 260 posts in about 170
+countries around the globe.  The information includes the number of
+employees at embassies, consulates, and other diplomatic offices
+located in almost every country in the world; the size of that
+presence on a country-by-country basis; trends in staffing levels;
+and the amount of money spent by 10 agencies surveyed by GAO for
+salaries, benefits, and allowances for staff. 
+
+U.S.-China Trade:
+Implementation of Agreements on Market Access and
+Intellectual Property
+
+GAO/GGD-95-61, Jan.  25 (68 pages). 
+
+In recent years, market access barriers and inadequate protection of
+intellectual property rights have discouraged U.S.  firms from doing
+business in the rapidly growing economy of the People's Republic of
+China.  To help overcome these barriers, in 1992 the United States
+and China signed two Memorandums of Understanding in which each
+country made commitments to improve market access and intellectual
+property rights protection.  This report examines China's
+implementation of these two memorandums.  GAO discusses (1) China's
+compliance with the provisions of the market access memorandum and
+related progress needed for China to meet the eligibility
+requirements to join the General Agreement on Tariffs and Trade and
+(2) China's implementation of the memorandum on the protection of
+intellectual property rights.  GAO also provides information on the
+legal procedures involved in addressing U.S.  concerns about foreign
+market access and intellectual property rights protection under
+Section 301 of the 1974 U.S.  Trade Act. 
+
+
+   JUSTICE AND LAW ENFORCEMENT
+-------------------------------------------------------- Appendix 0:15
+
+Border Control:
+Revised Strategy Is Showing Some Positive Results
+
+GAO/GGD-95-30, Dec.  29 (28 pages). 
+
+Despite law enforcement efforts, the flow of drugs along the
+southwest border continues, and unless border control efforts become
+more effective, illegal immigration is expected to increase during
+the next decade.  A 1993 study commissioned by the Office of National
+Drug Control Policy recommended that the Border Patrol try to prevent
+illegal alien entry rather than catch illegal aliens once they have
+entered the country.  The study suggested using (1) multiple physical
+barriers in some areas to prevent entry and (2) more highway
+checkpoints and other measures to prevent drugs and illegal aliens
+that have entered the United States from leaving border areas. 
+Officials GAO spoke with expressed support for a "prevention
+strategy," and preliminary results from prevention initiatives in San
+Diego and El Paso are generally encouraging.  However, some drug
+smuggling and illegal immigration seems to have been rerouted from
+these two sectors to other southwest border areas where enforcement
+is less effective.  In August 1994, the Immigration and
+Naturalization Service approved a national strategy to prevent
+illegal entry that builds on the agency's success in San Diego and El
+Paso.  Although this plan appears encouraging, GAO concludes that it
+is too early to tell what impact it will eventually have on drug
+smuggling and illegal immigration along the southwest border. 
+
+
+      TESTIMONY
+------------------------------------------------------ Appendix 0:15.1
+
+Customs Service:  Status of Reorganization and Modernization Efforts,
+by J.  William Gadsby, Director of Government Business Operations
+Issues, before the Subcommittee on Trade, House Committee on Ways and
+Means.  GAO/T-GGD/AIMD-95-70, Jan.  30 (14 pages). 
+
+The American public relies on the Customs Service to guard the
+nation's borders and enforce U.S.  trade laws.  In 1992, GAO reported
+that Customs could not adequately ensure that it was meeting its
+responsibilities of combatting unfair trade practices and protecting
+the American public from unsafe goods.  This testimony covers three
+topics:  the challenges facing Customs, Customs' proposal to
+fundamentally restructure itself as outlined in a September 1994
+report, and its implementation of the Modernization Act. 
+
+
+   NATIONAL DEFENSE
+-------------------------------------------------------- Appendix 0:16
+
+Bottom-Up Review:
+Analysis of Key DOD Assumptions
+
+GAO/NSIAD-95-56, Jan.  31 (69 pages). 
+
+In its bottom-up review of the nation's defense needs, the Defense
+Department (DOD) concluded that it is prudent to maintain the
+capability to fight and win two nearly simultaneous major regional
+wars, and it determined the forces, capability improvements, and
+funding necessary to do so.  Because the bottom-up review is the
+basis for the Pentagon's planning, programming, and budgeting for the
+foreseeable future, GAO examined key DOD assumptions underlying the
+two-conflict strategy.  GAO raises questions about the redeployment
+of forces from other operations to major regional conflicts,
+availability of strategic mobility assets and Army support forces,
+deployability of Army National Guard enhanced brigades, and planned
+enhancements to strategic lift and firepower.  In addition, military
+commanders believe that DOD's concept for responding to two nearly
+simultaneous conflicts may not be the best approach.  For example,
+their estimates of key characteristics of how two nearly simultaneous
+wars might arise and how forces should be deployed differ
+significantly from DOD's estimates, including the timing between the
+two conflicts and the timing of force deployments. 
+
+Overhead Costs:
+Unallowable Costs Charged by Rockwell Corporation,
+Rocketdyne Division
+
+GAO/NSIAD-95-41, Dec.  9 (10 pages). 
+
+GAO reviewed the overhead cost submissions of the Rockwell
+Corporation's Rocketdyne Division--a major NASA contractor--and found
+that about $222,000 of the costs in Rocketdyne's fiscal year 1990 and
+1992 overhead submissions were unallowable.  This amount represents
+about five percent of the $4.8 million in overhead costs reviewed and
+2.6 percent of the $8.6 million charged in total to the reviewed
+accounts.  These percentages of unallowable costs cannot be
+generalized to the total overhead charges of $8.66 million because
+GAO reviewed only those accounts that it believed were more
+susceptible to unallowable charges.  Rocketdyne included the
+unallowable costs in its overhead submissions mainly because
+accounting personnel did not have accurate instructions on allowable
+membership fees and because of weaknesses in Rockwell and Rocketdyne
+procedures for handling outside legal services.  Rocketdyne would
+have been reimbursed for fiscal year 1990 unallowable costs in part
+because the Defense Contract Audit Agency (DCAA) did not review the
+company's legal expenses and did not follow up on information it
+obtained on membership fees.  At the time of GAO's review, DCAA had
+not audited Rocketdyne's fiscal year 1992 submission. 
+
+Military Recruiting:
+More Innovative Approaches Needed
+
+GAO/NSIAD-95-22, Dec.  22 (85 pages). 
+
+The military has overstated its future recruiting challenges--the
+number of eligible high-school graduates is actually expected to grow
+steadily in coming years--and current recruiting operations are
+plagued by inefficiencies, with half the network of 6,000 recruiting
+offices supplying just 13.5 percent of enlistees.  Moreover, the
+military services plan to add more recruiters even though fewer
+recruits are needed to support the smaller military force resulting
+from downsizing.  Although many studies have suggested ways to
+consolidate or eliminate layers of management to cut costs, the
+services have been reluctant to change existing organizational
+structures. 
+
+Defense Research and Development:
+Mandated Reports on Noncompetitive Awards to Colleges
+and Universities
+
+GAO/NSIAD-95-72, Dec.  30 (41 pages). 
+
+Federal law requires the Defense Department (DOD) to report to
+Congress on the use of competitive procedures in awarding research
+and development contracts to colleges and universities.  Generally,
+the reports are to list colleges and universities that received more
+than $1 million in noncompetitive contracts and the cumulative amount
+of such contracts these colleges and universities received.  GAO
+reviewed DOD research and development contracts and awards,
+concentrating on 1993.  DOD awarded about $2.17 billion--$1.4 billion
+in contract funding and $769 million in grants--for research,
+development, test, and evaluation to colleges, universities, and
+other organizations (including university-affiliated laboratories) in
+fiscal year 1993.  DOD's data shows that about $1 billion of these
+contracts and about $75 million in grants were noncompetitive. 
+
+Navy's Aircraft Carrier Program:
+Investment Strategy Options
+
+GAO/NSIAD-95-17, Jan.  1995 (48 pages). 
+
+The 1993 bottom-up review--an evaluation of the nation's defense
+strategy, force structure, and modernization done in response to the
+end of the Cold Ware and the collapse of the Soviet Union--concluded
+that a force of 10 aircraft carriers could meet the military's
+war-fighting requirements but that 12 carriers were needed for
+sufficient overseas presence.  The bottom-up review recommended that
+construction of the CVN-76 begin in fiscal year 1995 to maintain the
+12-carrier force structure, allow flexibility in the carriers' force
+size, avoid cost increases arising from a construction delay, and
+preserve the industrial base at Newport News Shipbuilding.  This
+staff study supplements GAO's April 1994 testimony
+(GAO/T-NSIAD-94-171) on the affordability of several alternatives to
+construction of the CVN-76 beginning in fiscal year 1995.  The staff
+study discusses the budget implications of a wide range of options
+for achieving the 12-carrier fleet recommended by the bottom-up
+review, including the purchase of conventionally powered carriers
+instead of nuclear-powered carriers.  It also discusses each option's
+effect on employment levels at Newport News Shipbuilding. 
+
+Missile Development:
+Status and Issues at the Time of the TSSAM Termination Decision
+
+GAO/NSIAD-95-46, Jan.  20 (16 pages). 
+
+The Tri-Service Standoff Attack Missile (TSSAM) program--a $13.7
+billion effort to develop and acquire a stealthy, conventional,
+medium-range cruise missile--has been plagued by significant
+technical problems, cost growth, and schedule delays.  In May 1994,
+the Defense Department began restructuring the program after a series
+of flight test failures and unresolved technical problems.  On
+December 9, 1994, the Secretary of Defense announced plans to cancel
+the program because of significant development difficulties and
+growth in the expected unit cost for each missile.  This report
+provides pertinent information on the history and status of the TSSAM
+program at the time of the Secretary's announcement for use by
+Congress as it reviews the termination decision. 
+
+Defense Supply:
+Inventories Contain Nonessential and Excessive Insurance Stocks
+
+GAO/NSIAD-95-1, Jan.  20 (22 pages). 
+
+The Department of Defense (DOD) is stocking hundreds of millions of
+dollars of what are known as insurance items--spare parts and
+supplies, such as aircraft doors, rudders, and ejection seats, that
+are not expected to fail during normal use--that are not mission
+essential and in quantities that violate Defense Department
+regulations.  The unnecessary inventories occurred because inventory
+officials do not periodically review insurance items to ensure that
+they are mission-essential and stocked in appropriate quantities.  It
+costs DOD millions of dollars each year to manage and maintain their
+unnecessary inventories. 
+
+Defense Supply:
+Controls Over Hand Tools Can Be Improved
+
+GAO/NSIAD-95-44, Jan.  27 (23 pages). 
+
+The Defense Department (DOD) each year buys significant quantities of
+hand tools, such as wrenches and screwdrivers, to do maintenance and
+repair work at military installations worldwide.  However, GAO was
+unable to determine the extent of unnecessary purchases and losses of
+hand tools because DOD has insufficient cost data to identify and
+track tool purchases and inventory levels, as well as costs
+associated with missing, lost, and stolen tools.  DOD and the
+military services have not provided enough guidance and oversight to
+ensure that hand tools are adequately safeguarded and controlled at
+military units.  Further, GAO visited military units and found that
+(1) personnel were allowed to buy tools without prior authorization;
+(2) tool purchases could not be identified and traced to inventory
+records; and (3) discrepancies existed between inventory records and
+actual tool quantities.  GAO also found that Air Force operating
+units were buying new warranted tools to replace perfectly good tools
+and, contrary to regulations, were using local purchases to buy the
+same warranted tools that were available through normal DOD supply
+channels.  In August 1994, Air Force headquarters sent a message to
+all of the major commands advising them of GAO's findings and
+reminding them to comply with established policies and procedures. 
+
+C-17 Aircraft:
+Cost and Performance Issues
+
+GAO/NSIAD-95-26, Jan.  26 (50 pages). 
+
+The widebodied C-17 cargo plane was intended to carry out a variety
+of unique missions, such as delivering cargo and troops to
+battlefront airfields; landing in small, austere airfields during
+conflicts; airlifting outsize cargo, such as tanks; and performing
+air drops.  GAO assessed the C-17's original justification and the
+effect of technical problems and cost increases on the aircraft's
+ability to achieve original program requirements.  Changes in the
+intended role of the C-17, soaring program costs, and the results of
+the Defense Department's own analysis lead GAO to conclude that a
+fleet of 120 C-17 aircraft is not the most effective way to meet the
+Air Force's airlift needs.  A fleet of 40 C-17s and 64 commercial
+freighters could meet the Defense Department's airlift requirements,
+as expressed in the Mobility Requirements Study, at a cost savings of
+upwards of $10 billion dollars when compared to a fleet of 120 C-17s. 
+
+Force Structure:
+Army's Support Requirements Process Lacks Valid and
+Consistent Data
+
+GAO/NSIAD-95-43, Jan.  30 (20 pages). 
+
+The Total Army Analysis (TAA) process is used to determine the
+support forces needed to sustain combat divisions and brigades. 
+Support forces include such units as transportation, maintenance,
+military police, and quartermaster.  GAO found that the Army lacks
+adequate procedures governing the development and review of
+logistical data in the TAA process.  Until recently, Army regulations
+only focused on the management and validation of one type of
+logistical data--planning factors.  These regulations were not
+followed, however, allowing outdated or unreliable information to be
+used in TAA.  The Army has changed its regulations to require that
+all logistical data in the Army Force Planning Data and Assumptions
+document be validated and that the Combined Arms Support Command
+centrally manage the process.  Although this is a step in the right
+direction, GAO believes that more guidance is needed to ensure the
+validity of all logistical data and sufficient oversight of the
+process.  The data and assumptions used by Army programmers in the
+TAA process sometimes differ from what Army component planners use
+for war plans, leading to vastly different requirements.  Since TAA
+requirements are the basis for resourcing decisions, these
+differences need to be identified and evaluated to ensure that there
+are valid reasons for them. 
+
+
+      TESTIMONY
+------------------------------------------------------ Appendix 0:16.1
+
+Future Years Defense Program:  Optimistic Estimates Lead to Billions
+in Overprogramming, by Henry L.  Hinton, Jr.  Assistant Comptroller
+General for National Security and International Affairs Programs,
+before the House Committee on National Security.  GAO/T-NSIAD-95-83,
+Jan.  19 (nine pages). 
+
+The Future Years Defense Program (FYDP) is a classified database of
+current and projected force structure, costs, and personnel levels
+approved by the Secretary of Defense.  The Defense Department (DOD)
+makes projections far enough ahead to enable it to estimate future
+implications of current decisions.  GAO's review of the 1995-99 FYDP,
+published in July 1994, revealed a potential imbalance between
+programs sought by DOD and available funds of $150 billion or more,
+although the President and DOD have agreed to changes that could
+correct some of the imbalance.  GAO has been reporting on the problem
+of overprogramming since the mid-1980s, when DOD funding began to
+decline.  GAO's work since then has shown that DOD has had an
+imbalance between programs and projected funds.  This overprogramming
+has tended to obscure defense priorities and delay hard decisions and
+trade-offs that must be made if available funds and defense programs
+are to be balanced. 
+
+
+   NATURAL RESOURCES
+-------------------------------------------------------- Appendix 0:17
+
+Endangered Species Act:
+Information on Species Protection on Nonfederal Lands
+
+GAO/RCED-95-16, Dec.  20 (23 pages). 
+
+Congress is considering reauthorizing the Endangered Species Act. 
+GAO was asked to obtain information on the efforts of the Fish and
+Wildlife Service to protect species on nonfederal lands.  A
+predominant number of the species protected under the Act have the
+major share of their habitat on nonfederal lands.  Specifically, of
+the 781 listed species for which the Fish and Wildlife Service was
+responsible as of May 1993, 712 (or over 90 percent) have habitat on
+nonfederal lands and of these, 516 have over 60 percent of their
+total habitat on nonfederal lands.  Two processes authorized under
+the Act have addressed potential conflicts between the effort to
+protect species and land use activities on nonfederal lands.  The
+implementation of these processes has resulted in nonfederal
+landowners altering their planned or ongoing activities in various
+ways to minimize and/or mitigate their potential impact on endangered
+species.  In addition, the Fish and Wildlife Service and others have
+initiated legal action to protect species. 
+
+
+   SOCIAL SERVICES
+-------------------------------------------------------- Appendix 0:18
+
+Early Childhood Programs:
+Local Perspectives on Barriers to Providing Head Start Services
+
+GAO/HEHS-95-8, Dec.  21 (61 pages). 
+
+To gather information on problems that Head Start programs face in
+trying to provide services, GAO surveyed a sample representing about
+46 percent of all Head Start programs nationwide.  Head Start program
+directors identified three barriers as significantly affecting their
+ability to provide services to children and families:  insufficient
+qualified staff to meet the complex needs of children and families;
+limited numbers of health professionals in the community willing to
+help Head Start staff provide services; and difficulties in getting
+suitable facilities at reasonable costs. 
+
+Early Childhood Programs:
+Parent Education and Income Best Predict Participation
+
+GAO/HEHS-95-47, Dec.  28 (32 pages). 
+
+Using data from the 1990 census, GAO analyzed factors, including
+family income, parents' education, race, immigrant status, and family
+type, that influence the likelihood of children taking part in
+preschool programs.  GAO found that children whose parents have less
+than a high school diploma, whose families have low incomes, and who
+live in certain states are the least likely to participate in
+preschool.  Research has shown considerable benefits of preschool
+participation, and yet some children remain much less likely to
+participate compared with their peers.  Consequently, the National
+Education Readiness Goal that all children will be ready for school
+by the year 2000 will be difficult to attain. 
+
+
+      TESTIMONY
+------------------------------------------------------ Appendix 0:18.1
+
+Welfare to Work:  AFDC Training Program Spends Billions, but Not Well
+Focused on Employment, by Jane L.  Ross, Director of Income Security
+Issues, before the Senate Committee on Labor and Human Resources. 
+GAO/T-HEHS-95-51, Jan.  10 (eight pages). 
+
+GAO concludes that although billions have been spent on it, the Jobs
+Opportunities and Basic Skills Training (JOBS) program has not
+transformed Aid for Families With Dependent Children (AFDC) into a
+transitional cash assistance program focused on employment.  Few are
+served in JOBS and some of those most at risk of long welfare stays,
+such as teen parents, have not been reached.  In addition, the JOBS
+program is not well focused on the ultimate goal of employment. 
+First, the number of JOBS participants who have landed jobs is
+unknown.  Second, federal performance standards generally reward
+states financially for placing AFDC recipients in education and
+training, but not for finding them jobs.  Third, the programs in most
+communities are not fully using the tools available to find and
+create jobs for their welfare recipients. 
+
+Health and Human Services:  Opportunities to Realize Savings, by Mark
+V.  Nadel, Associate Director for National and Public Health Issues,
+and Jane L.  Ross, Director of Income Security Issues, before the
+Subcommittee on Labor, Health and Human Services, Education, and
+Related Agencies, House Committee on Appropriations. 
+GAO/T-HEHS-95-57, Jan.  12 (16 pages). 
+
+With estimated outlays of more than $315 billion, the Department of
+Health and Human Services (HHS) is the largest department in the
+government.  GAO concludes that the Department warrants a
+comprehensive "scrub" of all its activities, with the goal of
+eliminating, reducing, or consolidating programs.  GAO stresses three
+points.  First, opportunities exist to reduce HHS' budget through
+greater administrative efficiencies and targeting ineffective
+programs.  Second, through targeting, Congress could preserve funding
+for essential administrative functions that enable agencies to avoid
+unnecessary or wasteful expenditures.  Third, HHS currently lacks the
+tools--an adequate program evaluation strategy or modern information
+systems--to determine whether its programs work. 
+
+Low-Income Families:  Comparisons of Incomes of AFDC and Working Poor
+Families, by Jane L.  Ross, Director of Income Security Issues,
+before the Senate Committee on Governmental Affairs. 
+GAO/T-HEHS-95-63, Jan.  25
+(13 pages). 
+
+In recent years, rapid growth in welfare caseloads, concerns about
+program costs and beneficiaries' long-term dependence, and
+dissatisfaction with current programs have again focused attention on
+the nation's welfare system.  This testimony focuses on four main
+points:  (1) the range of benefits that welfare and working poor
+families receive, (2) welfare families' incomes and poverty status,
+(3) how welfare families' incomes compare with those of working poor
+families not on welfare, and (4) how work-related support may help
+welfare families move from welfare to work.  In summary, GAO found
+that the incomes of welfare families who also received benefits, such
+as food stamps and Medicaid, were quite similar to the incomes of
+families with earnings close to the minimum wage.  In addition, the
+incomes of most families in both groups fell below the poverty line. 
+
+Child Care:  Narrow Subsidy Programs Create Problems for Mothers
+Trying to Work, by Jane L.  Ross, Director of Income Security Issues,
+before the Subcommittee on Early Childhood, Youth and Families, House
+Committee on Economic and Educational Opportunities. 
+GAO/T-HEHS-95-69, Jan.  31
+(14 pages). 
+
+The categorical nature of child care subsidy programs creates service
+gaps that diminish the likelihood that low-income mothers will work. 
+The fragmented nature of the child care funding, with entitlements to
+some client categories, time limits on others, and activity limits on
+still others, produces unintended gaps in services that limit the
+ability of low-income families to become self-sufficient.  Moreover,
+as states deplete funds for welfare recipients, they turn to funds
+originally targeted for the child care needs of the working poor,
+putting them at greater risk of welfare dependency.  In considering
+consolidation of these programs as a remedy for the service gaps that
+trouble mothers, child care providers, and program administrators
+alike, some important issues need to be considered.  For example,
+trade-offs must be weighed between state flexibility to determine
+whom to serve with subsidies and congressional interest in
+accountability for how federal money is spent and for positive
+program outcomes. 
+
+
+   TAX POLICY AND ADMINISTRATION
+-------------------------------------------------------- Appendix 0:19
+
+
+      TESTIMONY
+------------------------------------------------------ Appendix 0:19.1
+
+U.S.  Insular Areas:  Information on Fiscal Relations With the
+Federal Government, by Natwar M.  Gandhi, Associate Director for Tax
+Policy and Administration Issues, before the Subcommittee on Native
+American and Insular Affairs, House Committee on Resources. 
+GAO/T-GGD-95-71, Jan.  31
+(61 pages). 
+
+This testimony discusses various fiscal arrangements between the U.S. 
+government and the insular areas of American Samoa, Guam, the
+Northern Mariana Islands, Puerto Rico, and the U.S.  Virgin Islands. 
+GAO provides information on income and other tax rules and revenues
+that apply to these areas, current federal expenditures to these
+areas, and the extent to which major federal social programs are
+extended to these areas. 
+
+
+   TRANSPORTATION
+-------------------------------------------------------- Appendix 0:20
+
+International Aviation:
+DOT Needs More Information to Address U.S.  Airlines' Problems in
+Doing Business Abroad
+
+GAO/RCED-95-24, Nov.  29 (44 pages). 
+
+U.S.  airlines serving key European and Pacific Rim airports often
+face obstacles that foreign airlines operating in the United States
+experience to a much lesser extent.  These obstacles include (1)
+limited access to landing and take-off slots; (2) inadequate
+terminals; (3) restrictions on their ability to perform ground
+services, such as checking in passengers and handling baggage; and
+(4) restrictions and delays in processing cargo.  These obstacles at
+overseas airports affect all airlines except the national carriers,
+creating a home-country advantage for those airlines.  The State
+Department and the Transportation Department recognize that U.S. 
+airlines face many doing-business problems overseas, and these
+agencies have had some success in eliminating them.  For example, the
+two agencies helped U.S.  airlines to obtain slots at satisfactory
+times at a Tokyo airport.  Other problems, however, persist. 
+
+Coast Guard Cutters:
+Actions Needed Now to Ensure Better Management of Parts
+and Supplies
+
+GAO/RCED-95-62, Jan.  24 (18 pages). 
+
+The Coast Guard does not have the organizational structure or
+computer systems necessary to effectively manage its inventory for
+supporting its fleet of 240 cutters.  As a result, the Coast Guard
+does not know the value, type, quantity, and condition of many of the
+spare and repair parts in the inventory.  Without such information,
+the Coast Guard cannot determine whether cutters have a shortage or
+an excess of parts or whether the parts are readily available when
+needed. 
+
+
+      TESTIMONY
+------------------------------------------------------ Appendix 0:20.1
+
+Department of Transportation:  Issues Related to Transportation
+Funding, by Kenneth M.  Mead, Director of Transportation Issues,
+before the Subcommittee on Transportation and Related Agencies, House
+Committee on Appropriations.  GAO/T-RCED-95-83, Jan.  11 (three
+pages). 
+
+This testimony focuses on issues affecting the development of more
+efficient and effective transportation programs in an era of
+diminishing resources.  During the past several years, GAO has
+reported to Congress on ways to strengthen transportation programs. 
+On the basis of this work, this testimony makes observations on five
+critical issues:  the restructuring of the Transportation Department,
+the consolidation of transportation grant programs, the future of
+Amtrak, the plans for the air traffic control system, and the status
+of the Interstate Commerce Commission. 
+
+Aviation Safety:  FAA Can Be More Proactive in Promoting Aviation
+Safety, by Kenneth M.  Mead, Director of Transportation Issues,
+before the Senate Committee on Commerce, Science, and Transportation. 
+GAO/T-RCED-95-81, Jan.  12 (16 pages). 
+
+The same number of passengers died in crashes involving large
+airlines and commuter planes in 1994 as in the previous four years
+combined, raising questions about what can be done to make an already
+safe system even safer.  Although the U.S.  air transport system has
+achieved a high level of safety, GAO testified that several
+longstanding problems not only handicap the Federal Aviation
+Administration's (FAA) ability to effectively administer its
+oversight responsibilities but also inhibit its ability to be more
+proactive in promoting safety.  GAO suggests that FAA can take
+further steps to better promote safety.  Most importantly, FAA needs
+to be increasingly proactive, rather than reactive.  To do so, FAA
+must overcome several challenges, including ensuring that its staff
+keeps pace with advances in aviation technology and that it has
+accurate, reliable, and timely information with which to better
+identify emerging safety problems and make the hard choices as to
+which safety improvements are the most urgent and critical. 
+
+Amtrak:  Deteriorated Financial and Operating Conditions, by Kenneth
+M.  Mead, Director of Transportation Issues, before the Senate
+Committee on Commerce, Science and Transportation.  GAO/T-RCED-95-90,
+Jan.  26
+(nine pages). 
+
+Amtrak's financial condition, always precarious, has declined
+steadily since 1990 to the point that its ability to offer service
+over its current 25,000-mile nationwide system is seriously
+threatened.  It is unlikely that Amtrak can overcome its problems in
+financing, capital investments, and service quality without
+significant increases in passenger revenues or funding, particularly
+for capital investment, from federal, state, and local governments. 
+During the past several years, Amtrak has responded to deteriorating
+conditions by taking on debt, deferring maintenance, and cutting
+staff.  Some of these measures have diminished the quality and
+reliability of Amtrak service.  In December 1994, Amtrak announced an
+aggressive plan to reduce expenses by $430 million annually by
+eliminating routes, retiring its oldest cars, cutting staff, and
+improving productivity.  Although this plan is an aggressive first
+step, it will not solve the railroad's long-term problems.  In
+deciding the future of intercity rail passenger service in the United
+States, Congress will need to consider the nation's expectations for
+such services and the scope of Amtrak's mission.  Congress will also
+need to decide the appropriate role of the federal government in
+funding Amtrak's operating losses and capital investments. 
+
+
+   VETERANS AFFAIRS
+-------------------------------------------------------- Appendix 0:21
+
+VA Health Care:
+Albuquerque Medical Center Not Recovering Full Costs of Lithotripsy
+Services
+
+GAO/HEHS-95-19, Dec.  28 (50 pages). 
+
+The price charged by the Department of Veterans Affairs' (VA) medical
+center in Albuquerque, New Mexico, for lithotripsy--a procedure that
+uses shock waves to crush kidney stones into small pieces that can be
+passed through a patient's urinary tract--did not fully recover the
+center's costs.  The main reason for the problem--a flawed
+price-setting methodology--can be corrected.  First, the Albuquerque
+medical center should develop lithotripsy charges using a workload
+estimate based on historical workload for veterans and potential
+demand under sharing agreements.  Second, the center should include
+an equipment depreciation cost that is based on a shorter useful
+life.  Without such actions, it seems likely that the Albuquerque
+center's pricing practices will continue to fail to recoup costs and
+may harm the market for lithotripsy services in the Albuquerque area. 
+
+Veterans' Benefits:
+Better Assessments Needed to Guide Claims Processing Improvements
+
+GAO/HEHS-95-25, Jan.  13 (30 pages). 
+
+Slow claims processing and poor customer service have long been
+recognized as serious problems for the Department of Veterans Affairs
+(VA).  As early as 1990, VA began encouraging its regional offices to
+improve their claims processing system, but processing times and
+backlogs have increased rather than decreased.  At the end of fiscal
+year 1994, nearly 500,000 claims awaited a VA decision.  About 65,000
+of these were initial disability compensation claims.  On average
+during fiscal year 1994, veterans waited more than seven months for
+their initial disability claims to be decided and, if approved,
+payments to begin; some waited much longer.  This report discusses
+VA's current plans to change regional office claims processing and
+assesses VA's plans to determine the effectiveness of those changes. 
+
+
+   SPECIAL PUBLICATIONS
+-------------------------------------------------------- Appendix 0:22
+
+Abstracts of Reports and Testimony:
+Fiscal Year 1994
+
+GAO/OIMC-95-4A and GAO/OIMC-95-4B, Jan.  1995 (227 pages and 444
+pages). 
+
+Copies are now available of this handy guide to GAO reports and
+testimony.  A two-volume set, this reference publication provides an
+overview of the agency's work during fiscal year 1994.  The first
+volume summarizes more than 1,000 "blue books" and other publications
+issued between October 1993 and September 1994.  The second volume
+contains comprehensive indexes that allow the reader to locate
+documents that are of interest. 
+
+
